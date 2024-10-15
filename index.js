@@ -68,4 +68,8 @@ var convert = function(s, numRows) {
     };
 
     
-convert("PAYPALISHIRING", 3);
+//convert("PAYPALISHIRING", 3);
+
+var searchRange = function(nums, target) {
+    
+};
