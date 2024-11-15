@@ -71,5 +71,13 @@ var convert = function(s, numRows) {
 //convert("PAYPALISHIRING", 3);
 
 var searchRange = function(nums, target) {
+
+    let theNums = nums;
+    const  x = theNums.length;
+    let firstIndex = theNums.indexOf
+    
+    for ( i=0; i <= x; i++) {
+        
+    }
     
 };
